@@ -34,7 +34,7 @@ TRANSLATIONS/ÜBERSETZUNGEN: [Traditionelles Chinesisch (繁體中文)](https://
 **"persönlicher Einsatz" hebt hervor, wenn die Finanzierung durch eine Privatperson und nicht durch ein Projekt ablief.*
 
 ## Spendenbutton
-*Stick a donation button on your site. Stripe and PayPal are examples of services you can use to accept donations.*
+*Einfach ein Spendenbutt. Flattar Stripe and PayPal are examples of services you can use to accept donations.*
 
 #### Pro
 * nicht an Bedingungen geknüpft
@@ -42,35 +42,35 @@ TRANSLATIONS/ÜBERSETZUNGEN: [Traditionelles Chinesisch (繁體中文)](https://
 
 ####Kontra
 * Wenn man kein Fundraising betreibt nimmt man normalerweise kaum was ein.
-* Man braucht üblicherweise einen extra Akteur um Spenden Anzunehmen, der nimmt dann Gebüren  Beispiele sind Stripe und PayPal.
-* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com), and [NumFOCUS](http://www.numfocus.org) are examples. Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
+* Man braucht üblicherweise einen extra Akteur um Spenden Anzunehmen, der nimmt dann Gebüren.  Beispiele sind Stripe und PayPal.
+* Um spenden steuerbefreit annehmen zu können braucht man eine entsprechend annerkannte Gemmeinnützigkeit (in USA gibt es die 501(c)(3) nonprofit ). [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com), and [NumFOCUS](http://www.numfocus.org) sind Beispiele. TODO: hilf die situation in deutschland darzustellen.
+* Manchmal ist nicht klar, wer das Geld "verdient" oder wie es verteilt wird.Ein zusätzlicher Akteur wie [OpenCollective](http://opencollective.com) könnte weiterhelfen. TODO: hilf die Situation in Deutschland darzustellen
 
-####Case Studies
+####Fallstudien 
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
+TODO: hilf die Situation in deutschland darzustellen
+##Prämien (Bounties)
+*manchmal machen Projekte oder Firmen bounties für open source Programmierung (z.B.:. "Für einen gefundenen Fehler gibts  100€"). folgend sind services aufgelistet, die es ermöglichen solche bounties zu finden.*
 
-##Bounties
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
+####Pro
+* offen für community Beiträge
+* Das Geld ist an einen Eingeschränkten Zweck gebunden (mehr eine Auftragsarbeit)
+* populär für das finden von Sicherheitslücken
 
-####Pros
-* Open to community participation
-* Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
+####Kontra
+* führt zu Intressenskonflikten (schlechte pull requests, quantität statt qualität)
+* oft keine grossen Einzelbeträge (~<€500)
+* keine geregelte Einnahmequelle
 
-####Cons
-* Can create perverse incentives in a project (low quality PRs, distracting priorities)
-* Usually not much money per bounty (~<$500)
-* Doesn’t provide recurring revenue
-
-####Case Studies
+####Fallstudien
 * [Bountysource](http://bountysource.com)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
 * [Google Patch Rewards](https://static.googleusercontent.com/about/appsecurity/patch-rewards/index.html)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
-##Crowdfunding (one-time)
+##Crowdfunding (einmalig)
 *If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
 
 ####Pros
