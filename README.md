@@ -34,7 +34,7 @@ TRANSLATIONS/ÜBERSETZUNGEN: [Traditionelles Chinesisch (繁體中文)](https://
 **"persönlicher Einsatz" hebt hervor, wenn die Finanzierung durch eine Privatperson und nicht durch ein Projekt ablief.*
 
 ## Spendenbutton
-*Einfach ein Spendenbutt. Flattar Stripe and PayPal are examples of services you can use to accept donations.*
+*Einfach ein Spendenbutton. Flattar Stripe and PayPal Sind mögliche services um Spenden anzunehmen*
 
 #### Pro
 * nicht an Bedingungen geknüpft
@@ -43,7 +43,7 @@ TRANSLATIONS/ÜBERSETZUNGEN: [Traditionelles Chinesisch (繁體中文)](https://
 ####Kontra
 * Wenn man kein Fundraising betreibt nimmt man normalerweise kaum was ein.
 * Man braucht üblicherweise einen extra Akteur um Spenden Anzunehmen, der nimmt dann Gebüren.  Beispiele sind Stripe und PayPal.
-* Um spenden steuerbefreit annehmen zu können braucht man eine entsprechend annerkannte Gemmeinnützigkeit (in USA gibt es die 501(c)(3) nonprofit ). [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com), and [NumFOCUS](http://www.numfocus.org) sind Beispiele. TODO: hilf die situation in deutschland darzustellen.
+* Um spenden steuerbefreit annehmen zu können braucht man eine entsprechend annerkannte Gemmeinnützigkeit (in USA gibt es die 501(c)(3) nonprofit ). [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com), und [NumFOCUS](http://www.numfocus.org) sind Beispiele. TODO: hilf die situation in deutschland darzustellen.
 * Manchmal ist nicht klar, wer das Geld "verdient" oder wie es verteilt wird.Ein zusätzlicher Akteur wie [OpenCollective](http://opencollective.com) könnte weiterhelfen. TODO: hilf die Situation in Deutschland darzustellen
 
 ####Fallstudien 
@@ -71,33 +71,33 @@ TODO: hilf die Situation in deutschland darzustellen
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ##Crowdfunding (einmalig)
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+*Wenn es um eine eingrenzbare Idee geht, die Implementiert werden soll (nicht um ein laufendes Projekt), kann eine einmalige Kampange reichen um genug Geld zu bekommen. Sowohl Firmen als auch Privatpersonen sind mögliche Unterstützer.*
 
-####Pros
-* Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Kickstarter](https://kickstarter.com/)
+####Pro
+* nicht an Bedingungen geknüpft
+* lässt sich für Privatpersonen über z.B. [Kickstarter](https://kickstarter.com/) realiesieren.
 
-####Cons
-* Lots of work involved to market campaign
-* Usually has to be tied to concrete outcome, perks
-* Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+####Kontra
+* Kampange ist arbeitsaufwändig
+* Muss normalerweise an konkrete Vorzüge, bzw. Vergünstigungen gekoppelt werden.
+* bringt nur begrenzte Summen ein (~$50K pro Kampange) TODO: hilf die Situation in Deutschland darzustellen
+* Manche Firmen haben Probleme an Kampangen zu spenden.
 
-####Case Studies
+####Fallstudien
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
-* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [Andrew Godwin + Django ( Privatperson)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* [ribasushi + CPAN (Privatperson)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 
-##Crowdfunding (recurring)
+##Crowdfunding (mehrmals)
 *If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
 
-####Pros
-* Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
+####Pro
+* an kaum Bedingungen geknüpft
+* lässt sich möglicherweise gut über services managen z.B.: [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
 
-####Cons
+####Kontra
 * Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
 * Harder to explain concrete outcomes, perks that come with recurring donations
 * Usually not that much money (~$1-4K monthly)
